@@ -1,2 +1,1 @@
-# claystonestudies.github.io
-This is the website of Claystone Studies.
+This is the personal website of Robert Davis
